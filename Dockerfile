@@ -1,1 +1,2 @@
-fEVARRqgMzGz2K
+FROM alpine
+CMD ["echo", "Hello World!"]
